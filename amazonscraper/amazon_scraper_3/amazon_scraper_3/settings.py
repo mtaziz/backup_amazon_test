@@ -13,11 +13,11 @@ BOT_NAME = 'amazon_scraper_3'
 
 SPIDER_MODULES = ['amazon_scraper_3.spiders']
 NEWSPIDER_MODULE = 'amazon_scraper_3.spiders'
-API_KEY = "0b731dbb44c0464ca11efc547bdb33cb"
+API_KEY = ""
 USER_AGENT = "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
 # Crawlera Configuration 
 CRAWLERA_ENABLED = True
-CRAWLERA_USER = "71ce73f7958c43f1b555210373deaccb"
+CRAWLERA_USER = ""
 CRAWLERA_PASS = ""
 CONCURRENT_REQUEST = 32
 CONCURRENT_REQUEST_PER_DOMAIN = 32
